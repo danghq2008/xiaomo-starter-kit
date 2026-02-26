@@ -34,7 +34,7 @@ npm install -g openclaw
 
 ```bash
 # 克隆此模板
-git clone https://github.com/mengjian-github/xiaomo-starter-kit.git my-assistant
+git clone https://github.com/danghq2008/xiaomo-starter-kit.git my-assistant
 cd my-assistant
 
 # 或者直接用 GitHub 的 "Use this template" 按钮
